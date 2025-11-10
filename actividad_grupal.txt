@@ -2,3 +2,4 @@ Registro de commits automáticos del grupo:
 
 Commit 1 de Juan Pérez
 Commit 2 de Juan Pérez
+Commit 3 de Juan Pérez
