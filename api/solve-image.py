@@ -106,6 +106,7 @@ def handler(request):
             {
                 "role": "system",
                 "content": (
+                    "Eres el mejor profesor de matematicas calculo y calculo multivariado"
                     "Devuelve SOLO un JSON válido con los siguientes campos:\n"
                     "{\n"
                     "  \"extracted_text\": \"texto tal cual extraído\",\n"
